@@ -1,5 +1,6 @@
 body{
     display: flex;
+    flex-direction: column;
     margin: 0;
     padding: 0;
     width: 100%;
@@ -11,4 +12,13 @@ body{
 p{
     color: blueviolet;
     font-size: 30px;
+}
+
+h1{
+    color: aquamarine;
+
+}
+
+.segundo{
+    color: darkblue;
 }
