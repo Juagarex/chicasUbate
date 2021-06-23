@@ -1,0 +1,67 @@
+body{
+	margin: 5px;
+	padding: 0;
+	width: 98%;
+	height: 96vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	border-color: #E9896A;
+	border-width: 5px;
+  border-style: dotted;
+
+}
+.texto{
+	width: 30%;
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	font-weight: 700;
+	color: #9E9D89;
+}
+.contenedor{
+
+	width: 60%;
+	height: 80%;
+}
+.cuadros_externos{
+	width: 100%;
+	height: 50%;
+	display: flex;
+
+}
+.c_uno{
+
+	width:54%;
+	height:90%;
+	background: #D5ECC2;
+	margin: 1%;
+
+	border-radius: 5%;
+
+}
+.circulo{
+
+	width: 35%;
+	height: 65%;
+	background: blue;
+
+	border-radius: 5%;
+
+}
+.circulo img{
+
+	width: 100%;
+	height: 100%;
+	border-radius: 5%;
+
+}
+.con_circulo{
+
+	width: 60%;
+	height: 80%;
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
