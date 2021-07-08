@@ -1,1 +1,10 @@
-hola a todas el dia de hoy este es el proyecto de las chias de la universidad de cundinamarca
+# Proyecto chicas Ubaté
+En este proyecto practicamos mucho
+
+ Utilizamos las siguientes tecnologías:
+ 
+
+ - html
+ - CSS
+ - JAVA
+
